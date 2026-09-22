@@ -1,0 +1,25 @@
+{
+  "name": "genai-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeepanshuSherki/GenAI-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeepanshuSherki/GenAI-project/issues"
+  },
+  "homepage": "https://github.com/DeepanshuSherki/GenAI-project#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^18.0.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.10.1"
+  }
+}
